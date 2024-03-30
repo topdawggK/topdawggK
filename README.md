@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @topdawggK
-- 👀 I’m interested in Basketball and Software Development.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on contraced jobs which is financially beneficial to both parties in the specific contrat.
+- 👀 I’m interested in Basketball, and Soccer.
+- 🌱 I’m currently learning Python,Java,JavaScript.
+- 💞️ I’m looking to collaborate on any project to expand knowledge base as well as improve my coding skills. 
 - 📫 How to reach me Snapchat: @k_ankamah20
 
 <!---
